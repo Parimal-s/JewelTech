@@ -1,10 +1,10 @@
-[![Build Status](https://travis-ci.org/atena123/Jewellery-shop.svg?branch=master)](https://travis-ci.org/atena123/Jewellery-shop)
 
-# Jewellery shop - website
+
+# JewelTech - website
 
 ## UX
 
-This is full stack project. I created website called 'JEWELLERY' that allows user to purchase jewelry products.
+This is full stack project. I created website called 'JewelTech' that allows user to purchase jewelry products.
 The purpose of the website is to successfully sell Jewelry online and drive more sales for the business.
 This website lets users/customers shop from anywhere at any time. Jewellery is a great fit for ecommerce as products 
 are lightweight and easy to ship, come in many variations, and can be customized.
@@ -51,7 +51,7 @@ As a user you can:
 * **footer links** - allows view information about the shop by clicking on: *about*, *return*, *shipping* links
 * **social links** - allows user to view shop's social media (not existing yet)
 * **back to top button** - when clicked will bring to the top of the page
-
+* **Contacts** when clicked conatcs will be appered
 ### Features left to implement
 
 * search product by different categories like: (price, color, for men, for women and more)
@@ -105,19 +105,12 @@ I used Chrome DevTools to make sure it works on: Samsung Galaxy S5, iPhone 5/6/7
 I deploy my project by going to GitHub, navigate to my github pages site's repository. Under my repository name I clicked Settings.
 Then I used the Select drop-down menu to select master branch and then save it. Now my project is deployed to github pages and accessible to anyone via URL.
 
-Link to my github repository: https://github.com/atena123/Jewellery-shop
+Link to my github repository: https://github.com/Parimal-s/JewelTech
 
-### HEROKU
-
-In the terminal, I created a requirements.txt file using this command: pip freeze > requirements.txt. 
-In the terminal, I created a Procfile by running: echo web: python app.py > Procfile command. I push these files to my GitHub repository.
-I created a new app on Heroku dashboard, I named it 'Jewellery-shop' and then I set the region. I linked Github repository to Heroku.
-
-My app can be found at: https://online-jewellery-shop.herokuapp.com/
 
 To run this project you need to do the following:
 
-* Go to Github repository and click on the 'clone or download' and copy the link https://github.com/atena123/Jewellery-shop
+* Go to Github repository and click on the 'clone or download' and copy the link https://github.com/Parimal-s/JewelTech
 * Create virtual environment that helps to keep dependencies required by this project separate from other projects by creating virtual environments.
 * Install all required modules by creating requirements.txt file.
 * Create a .env file with the connection to s3, stripe and a secret key.
@@ -128,7 +121,7 @@ To run this project you need to do the following:
 ### content
 
 all products images and description are from this website: https://www.jewelrypoint.com/?gclid=EAIaIQobChMIwtnNtaSB5gIVzLTtCh14bwCUEAAYASAAEgI7BvD_BwE
-
+Some of the components was taken by https://github.com/atena123/Jewellery-shop
 ### aknowlegment
 
 1. my mentor: Ignatius Ukwuoma - my help throughout the project
