@@ -120,7 +120,11 @@ To run this project you need to do the following:
 
 ### Content
 
-* **all products images and description are from this website:** https://www.jewelrypoint.com/?gclid=EAIaIQobChMIwtnNtaSB5gIVzLTtCh14bwCUEAAYASAAEgI7BvD_BwE
+* **all products images and description are from this website:**
+*  https://www.jewelrypoint.com/?gclid=EAIaIQobChMIwtnNtaSB5gIVzLTtCh14bwCUEAAYASAAEgI7BvD_BwE
+*  https://www.titan.co.in/shop/watches/gender=women&brand=titan?utm_source=Google&utm_medium=CPC&utm_campaign=IA_Titan_Google_TitanWatches_BAU_Search_BrandSearch_SKW_Broad_AllProducts_Prospecting_PanIndia_AlwaysOn_1Jun22_Ext&utm_source=Google&utm_medium=CPC&utm_campaign=IA_Titan_Google_TitanWatches_BAU_Search_BrandSearch_SKW_Broad_AllProducts_Prospecting_PanIndia_AlwaysOn_1Jun22&gclid=Cj0KCQjw08aYBhDlARIsAA_gb0fEQN2H5Mt--C1gk9EOR0E2GOO3Z1F259nF2C5jB-kRzKkL_2WsbBsaAk1yEALw_wcB
+*  https://www.bluestone.com/jewellery/diamond-rings.html?utm_campaign=&utm_medium=cpc&utm_source=google&gclid=Cj0KCQjw08aYBhDlARIsAA_gb0cEe_fMjRD_lXbOuzNOsVGSTjYYS3S0FFdQ60nl_c6U97x4mLM65pcaAs1vEALw_wcB
+*  https://www.caratlane.com/jewellery/rings.html
 * **Some of the components was taken by**: https://github.com/atena123/Jewellery-shop
 ### aknowlegment
 
