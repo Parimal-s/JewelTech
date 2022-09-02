@@ -51,7 +51,7 @@ As a user you can:
 * **footer links** - allows view information about the shop by clicking on: *about*, *return*, *shipping* links
 * **social links** - allows user to view shop's social media (not existing yet)
 * **back to top button** - when clicked will bring to the top of the page
-* **Contacts** when clicked conatcs will be appered
+* **Contacts** - when clicked contacts will be appered
 ### Features left to implement
 
 * search product by different categories like: (price, color, for men, for women and more)
