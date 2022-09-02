@@ -118,10 +118,10 @@ To run this project you need to do the following:
 
 ## CREDIT
 
-### content
+### Content
 
-*all products images and description are from this website: https://www.jewelrypoint.com/?gclid=EAIaIQobChMIwtnNtaSB5gIVzLTtCh14bwCUEAAYASAAEgI7BvD_BwE
-*Some of the components was taken by https://github.com/atena123/Jewellery-shop
+* **all products images and description are from this website:** https://www.jewelrypoint.com/?gclid=EAIaIQobChMIwtnNtaSB5gIVzLTtCh14bwCUEAAYASAAEgI7BvD_BwE
+* **Some of the components was taken by**: https://github.com/atena123/Jewellery-shop
 ### aknowlegment
 
 1. my mentor: Ignatius Ukwuoma - my help throughout the project
